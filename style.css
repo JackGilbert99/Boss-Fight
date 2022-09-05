@@ -1,0 +1,34 @@
+body {
+  background-image: url(https://i.ytimg.com/vi/XfWXEyU7H-g/maxresdefault.jpg);
+  background-size: cover;
+
+}
+
+.characterImgFane {
+  max-width: 20vh;
+  min-height: 25vh;
+  border: 4px solid #34a300;
+  user-select: none;
+  cursor: pointer;
+}
+
+.characterImgRP {
+  min-width: 20vh;
+  max-height: 25vh;
+  border: 4px solid #34a300;
+  user-select: none;
+  cursor: pointer;
+}
+
+.bossImg {
+  max-width: 50vh;
+  max-height: 50vh;
+  border: 4px solid #a30000;
+  user-select: auto;
+  cursor: pointer;
+}
+
+.magic-sword {
+  max-width: 7vh;
+  min-height: 14vh;
+}
